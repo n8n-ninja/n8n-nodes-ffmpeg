@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.ElevenLabs",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "http://go.n8n.ninja/811"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "http://go.n8n.ninja/811"
+			}
+		]
+	}
+}
